@@ -1,0 +1,30 @@
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\bin\Debug\net6.0\Array - Estructura.exe
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\bin\Debug\net6.0\Array - Estructura.deps.json
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\bin\Debug\net6.0\Array - Estructura.runtimeconfig.json
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\bin\Debug\net6.0\Array - Estructura.dll
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\bin\Debug\net6.0\Array - Estructura.pdb
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.AssemblyInfo.cs
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.dll
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\obj\Debug\net6.0\refint\Array - Estructura.dll
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.pdb
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.genruntimeconfig.cache
+C:\Users\USER\source\repos\Array - Estructura\Array - Estructura\obj\Debug\net6.0\ref\Array - Estructura.dll
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\bin\Debug\net6.0\Array - Estructura.exe
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\bin\Debug\net6.0\Array - Estructura.deps.json
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\bin\Debug\net6.0\Array - Estructura.runtimeconfig.json
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\bin\Debug\net6.0\Array - Estructura.dll
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\bin\Debug\net6.0\Array - Estructura.pdb
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.csproj.AssemblyReference.cache
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.AssemblyInfoInputs.cache
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.AssemblyInfo.cs
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.csproj.CoreCompileInputs.cache
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.dll
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\obj\Debug\net6.0\refint\Array - Estructura.dll
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.pdb
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\obj\Debug\net6.0\Array - Estructura.genruntimeconfig.cache
+C:\Users\Compumax\Downloads\Array - Estructura\Array - Estructura\Array - Estructura\obj\Debug\net6.0\ref\Array - Estructura.dll
